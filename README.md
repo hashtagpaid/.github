@@ -1,0 +1,2 @@
+# .github
+#paid organization readme
