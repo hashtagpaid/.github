@@ -8,7 +8,7 @@ As the leader in the creator marketing space, #paid offers end-to-end workflow m
 
 ### 💻 Our tech stack
 
-We use a range of technologies to get the job done: JavaScript and Node.js coupled with Fastify, Webpack, React, Redux, and other libraries to provide a modern, easy-to-use **Javascript** toolchain. A RESTful API back-end powers our platform services.
+We use a range of technologies to get the job done: JavaScript and Node.js coupled with Fastify, React, Ionic, Tailwind CSS, Capacitor, and other libraries to provide a modern, easy-to-use **Javascript** toolchain. A RESTful API back-end powers our platform services.
 
 We use **Terraform** to manage our infrastructure in **Google Cloud Platform**, and leverage GCP monitoring tools to monitor the performance of our applications.
 
